@@ -1,6 +1,6 @@
-# (Title)
+# (BMI Calc)
 
-This is a [Project name](project link). 
+This is a [BMI_Calc](project link). 
 
 ## Table of contents
 
