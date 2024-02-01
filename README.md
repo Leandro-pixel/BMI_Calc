@@ -1,6 +1,6 @@
 # (BMI Calc)
 
-This is a [BMI_Calc](project link). 
+This is a [BMI_Calc](https://leandro-pixel.github.io/BMI_Calc/). 
 
 ## Table of contents
 
